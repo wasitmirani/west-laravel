@@ -1,7 +1,8 @@
 /node_modules
 /public/hot
 
-/public/assets/media
+/public/assets/media/project
+/public/assets/media/banner
 /public/storage
 /storage/*.key
 /vendor
